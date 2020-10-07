@@ -14,7 +14,7 @@ import java.util.ArrayList;
 public class Project {
 
     private static String USERNAME = "msandbox";
-    private static String PASSWORD = "Ranger86*";
+    private static String PASSWORD = "Redacted";
     private static int PORT_NUMBER = 55686;
     private static String TARGET = "127.0.0.1:" + PORT_NUMBER;
     private static String DB_NAME = "BasicInventorySystem";
